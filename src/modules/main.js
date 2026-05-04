@@ -14,7 +14,7 @@ import "./TopicDetail.js";
 // === Carga de datos con fetch (más compatible que JSON modules) ===
 // Ruta relativa desde view/index.html (el HTML que se carga)
 // hasta el datos.json en la raíz del proyecto.
-const datos = await fetch("../../datos.json").then((res) => {
+const datos = await fetch("./datos.json").then((res) => {
   if (!res.ok) throw new Error(`No se pudo cargar datos.json: ${res.status}`);
   return res.json();
 });
