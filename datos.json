@@ -1,0 +1,331 @@
+{
+  "course": {
+    "id": "jardin-en-casa",
+    "title": "Jardín en Casa",
+    "subtitle": "De maceta vacía a jardín lleno de vida",
+    "phases": [
+      {
+        "id": "primeros-pasos",
+        "title": "Primeros Pasos",
+        "description": "Lo básico para empezar sin morir en el intento",
+        "topics": [
+          {
+            "id": "herramientas",
+            "title": "Herramientas",
+            "icon": "🛠️",
+            "difficulty": 1,
+            "duration": "2h 30m",
+            "description": "Las 7 herramientas básicas que necesitas y las que NO necesitas comprar.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Herramientas básicas de jardinería" },
+            "highlights": [
+              { "time": "00:05:00", "title": "Pala de mano: la imprescindible", "seconds": 300 },
+              { "time": "00:18:30", "title": "Tijeras de podar", "seconds": 1110 },
+              { "time": "00:45:00", "title": "Regadera vs manguera", "seconds": 2700 },
+              { "time": "01:20:00", "title": "Guantes correctos", "seconds": 4800 },
+              { "time": "02:00:00", "title": "Lo que NO compres", "seconds": 7200 }
+            ],
+            "chapters": [
+              { "id": "c1", "title": "Kit de inicio bajo $30", "duration": "08:20", "youtubeId": "G0_aDHZpXEs" },
+              { "id": "c2", "title": "Cómo cuidar tus tijeras", "duration": "05:40", "youtubeId": "G0_aDHZpXEs" }
+            ]
+          },
+          {
+            "id": "tierra",
+            "title": "Tierra",
+            "icon": "🟫",
+            "difficulty": 1,
+            "duration": "3h 15m",
+            "description": "Sustrato, drenaje y nutrientes: la base de todo lo verde.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Todo sobre la tierra" },
+            "highlights": [
+              { "time": "00:10:00", "title": "Tipos de sustrato", "seconds": 600 },
+              { "time": "00:50:00", "title": "Mezcla universal", "seconds": 3000 },
+              { "time": "01:40:00", "title": "Drenaje correcto", "seconds": 6000 },
+              { "time": "02:30:00", "title": "Cuándo cambiar la tierra", "seconds": 9000 }
+            ],
+            "chapters": []
+          },
+          {
+            "id": "macetas",
+            "title": "Macetas",
+            "icon": "🪴",
+            "difficulty": 1,
+            "duration": "2h 00m",
+            "description": "Tamaños, materiales y por qué tu maceta puede estar matando tu planta.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Elegir la maceta correcta" },
+            "highlights": [
+              { "time": "00:08:00", "title": "Barro vs plástico", "seconds": 480 },
+              { "time": "00:35:00", "title": "Tamaño según planta", "seconds": 2100 },
+              { "time": "01:20:00", "title": "Agujeros de drenaje", "seconds": 4800 }
+            ],
+            "chapters": []
+          }
+        ]
+      },
+      {
+        "id": "cuidados-diarios",
+        "title": "Cuidados Diarios",
+        "description": "La rutina que mantiene vivas a tus plantas",
+        "topics": [
+          {
+            "id": "riego",
+            "title": "Riego",
+            "icon": "💧",
+            "difficulty": 1,
+            "duration": "4h 00m",
+            "description": "El error #1 de los principiantes. Aprende a regar sin ahogar.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Cómo regar correctamente" },
+            "highlights": [
+              { "time": "00:12:00", "title": "Test del dedo", "seconds": 720 },
+              { "time": "01:00:00", "title": "Mañana o tarde", "seconds": 3600 },
+              { "time": "02:15:00", "title": "Riego profundo", "seconds": 8100 },
+              { "time": "03:00:00", "title": "Señales de exceso", "seconds": 10800 },
+              { "time": "03:40:00", "title": "Vacaciones: trucos", "seconds": 13200 }
+            ],
+            "chapters": [
+              { "id": "c1", "title": "Cuánta agua necesita cada planta", "duration": "11:30", "youtubeId": "G0_aDHZpXEs" },
+              { "id": "c2", "title": "Sistema de riego casero", "duration": "09:15", "youtubeId": "G0_aDHZpXEs" }
+            ]
+          },
+          {
+            "id": "luz",
+            "title": "Luz Solar",
+            "icon": "☀️",
+            "difficulty": 2,
+            "duration": "3h 20m",
+            "description": "Sol directo, indirecto, sombra. Encuentra el lugar perfecto.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "La luz que necesitan tus plantas" },
+            "highlights": [
+              { "time": "00:15:00", "title": "Mapa de luz en casa", "seconds": 900 },
+              { "time": "01:05:00", "title": "Plantas de sombra", "seconds": 3900 },
+              { "time": "02:00:00", "title": "Luz artificial", "seconds": 7200 },
+              { "time": "02:45:00", "title": "Rotar plantas", "seconds": 9900 }
+            ],
+            "chapters": []
+          },
+          {
+            "id": "abono",
+            "title": "Abono",
+            "icon": "🌾",
+            "difficulty": 2,
+            "duration": "3h 40m",
+            "description": "Alimenta tus plantas sin matarlas con exceso de nutrientes.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Abonos y fertilizantes" },
+            "highlights": [
+              { "time": "00:18:00", "title": "NPK explicado", "seconds": 1080 },
+              { "time": "01:10:00", "title": "Abono casero", "seconds": 4200 },
+              { "time": "02:20:00", "title": "Frecuencia correcta", "seconds": 8400 }
+            ],
+            "chapters": [
+              { "id": "c1", "title": "Compost en 3 pasos", "duration": "07:50", "youtubeId": "G0_aDHZpXEs" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tipos-plantas",
+        "title": "Tipos de Plantas",
+        "description": "Conoce a tus aliadas verdes",
+        "topics": [
+          {
+            "id": "suculentas",
+            "title": "Suculentas",
+            "icon": "🌵",
+            "difficulty": 1,
+            "duration": "2h 50m",
+            "description": "Las plantas más fáciles del mundo. Casi imposibles de matar.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Suculentas y cactus" },
+            "highlights": [
+              { "time": "00:10:00", "title": "Variedades populares", "seconds": 600 },
+              { "time": "00:55:00", "title": "Riego de suculentas", "seconds": 3300 },
+              { "time": "01:45:00", "title": "Reproducir por hojas", "seconds": 6300 }
+            ],
+            "chapters": []
+          },
+          {
+            "id": "aromaticas",
+            "title": "Aromáticas",
+            "icon": "🌿",
+            "difficulty": 2,
+            "duration": "4h 10m",
+            "description": "Albahaca, romero, menta. Que tu cocina huela a jardín.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Hierbas aromáticas en casa" },
+            "highlights": [
+              { "time": "00:15:00", "title": "Albahaca paso a paso", "seconds": 900 },
+              { "time": "01:00:00", "title": "Romero y tomillo", "seconds": 3600 },
+              { "time": "02:00:00", "title": "Menta: cuidado!", "seconds": 7200 },
+              { "time": "03:15:00", "title": "Cosechar sin matarlas", "seconds": 11700 }
+            ],
+            "chapters": [
+              { "id": "c1", "title": "Huerto de aromáticas en ventana", "duration": "12:40", "youtubeId": "G0_aDHZpXEs" }
+            ]
+          },
+          {
+            "id": "flores",
+            "title": "Flores",
+            "icon": "🌸",
+            "difficulty": 2,
+            "duration": "4h 30m",
+            "description": "Petunias, rosales, girasoles. Color para tu balcón.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Plantas con flor" },
+            "highlights": [
+              { "time": "00:20:00", "title": "Calendario de floración", "seconds": 1200 },
+              { "time": "01:30:00", "title": "Rosales para principiantes", "seconds": 5400 },
+              { "time": "03:00:00", "title": "Estimular más flores", "seconds": 10800 }
+            ],
+            "chapters": []
+          },
+          {
+            "id": "interior",
+            "title": "De Interior",
+            "icon": "🌱",
+            "difficulty": 1,
+            "duration": "3h 30m",
+            "description": "Pothos, monsteras, sansevierias. La jungla en tu sala.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Plantas de interior" },
+            "highlights": [
+              { "time": "00:12:00", "title": "Pothos: la indestructible", "seconds": 720 },
+              { "time": "01:00:00", "title": "Monstera deliciosa", "seconds": 3600 },
+              { "time": "02:15:00", "title": "Sansevieria", "seconds": 8100 },
+              { "time": "03:00:00", "title": "Cuándo trasplantar", "seconds": 10800 }
+            ],
+            "chapters": [
+              { "id": "c1", "title": "Top 5 indestructibles", "duration": "10:20", "youtubeId": "G0_aDHZpXEs" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "huerto",
+        "title": "Huerto en Casa",
+        "description": "Come lo que cultivas",
+        "topics": [
+          {
+            "id": "tomates",
+            "title": "Tomates",
+            "icon": "🍅",
+            "difficulty": 2,
+            "duration": "5h 00m",
+            "description": "La estrella del huerto urbano. Cherrys, pera, kumato.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Tomates en maceta" },
+            "highlights": [
+              { "time": "00:20:00", "title": "Sembrar desde semilla", "seconds": 1200 },
+              { "time": "01:30:00", "title": "Tutorado correcto", "seconds": 5400 },
+              { "time": "03:00:00", "title": "Polinización casera", "seconds": 10800 },
+              { "time": "04:15:00", "title": "Cosecha y conservación", "seconds": 15300 }
+            ],
+            "chapters": [
+              { "id": "c1", "title": "Tomate cherry en balcón", "duration": "14:30", "youtubeId": "G0_aDHZpXEs" }
+            ]
+          },
+          {
+            "id": "lechugas",
+            "title": "Lechugas",
+            "icon": "🥬",
+            "difficulty": 1,
+            "duration": "3h 00m",
+            "description": "Crecen rápido y siempre tendrás ensalada fresca.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Lechugas y verdes de hoja" },
+            "highlights": [
+              { "time": "00:10:00", "title": "Variedades fáciles", "seconds": 600 },
+              { "time": "00:50:00", "title": "Siembra escalonada", "seconds": 3000 },
+              { "time": "01:45:00", "title": "Cosecha por hojas", "seconds": 6300 }
+            ],
+            "chapters": []
+          },
+          {
+            "id": "fresas",
+            "title": "Fresas",
+            "icon": "🍓",
+            "difficulty": 2,
+            "duration": "3h 50m",
+            "description": "Dulces, perfumadas y perfectas para colgar en el balcón.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Fresas en macetas colgantes" },
+            "highlights": [
+              { "time": "00:15:00", "title": "Plantar estolones", "seconds": 900 },
+              { "time": "01:20:00", "title": "Macetas colgantes", "seconds": 4800 },
+              { "time": "02:30:00", "title": "Proteger de pájaros", "seconds": 9000 }
+            ],
+            "chapters": []
+          }
+        ]
+      },
+      {
+        "id": "problemas",
+        "title": "Problemas Comunes",
+        "description": "Cuando algo va mal y cómo arreglarlo",
+        "topics": [
+          {
+            "id": "plagas",
+            "title": "Plagas",
+            "icon": "🐛",
+            "difficulty": 2,
+            "duration": "4h 20m",
+            "description": "Identificar y combatir bichos sin químicos agresivos.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Plagas y soluciones" },
+            "highlights": [
+              { "time": "00:15:00", "title": "Pulgones: enemigo #1", "seconds": 900 },
+              { "time": "01:10:00", "title": "Cochinillas", "seconds": 4200 },
+              { "time": "02:20:00", "title": "Araña roja", "seconds": 8400 },
+              { "time": "03:30:00", "title": "Jabón potásico", "seconds": 12600 }
+            ],
+            "chapters": [
+              { "id": "c1", "title": "Insecticida natural", "duration": "09:30", "youtubeId": "G0_aDHZpXEs" },
+              { "id": "c2", "title": "Aliados del jardín", "duration": "07:15", "youtubeId": "G0_aDHZpXEs" }
+            ]
+          },
+          {
+            "id": "enfermedades",
+            "title": "Enfermedades",
+            "icon": "🍂",
+            "difficulty": 3,
+            "duration": "3h 50m",
+            "description": "Hongos, mildiu y otros problemas. Síntomas y curas.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Enfermedades de plantas" },
+            "highlights": [
+              { "time": "00:20:00", "title": "Hojas amarillas", "seconds": 1200 },
+              { "time": "01:15:00", "title": "Mildiu y oídio", "seconds": 4500 },
+              { "time": "02:30:00", "title": "Pudrición de raíz", "seconds": 9000 }
+            ],
+            "chapters": []
+          },
+          {
+            "id": "rescate",
+            "title": "Rescate SOS",
+            "icon": "🚑",
+            "difficulty": 3,
+            "duration": "3h 10m",
+            "description": "Tu planta se está muriendo: protocolo de emergencia.",
+            "video": { "youtubeId": "G0_aDHZpXEs", "title": "Salvar plantas moribundas" },
+            "highlights": [
+              { "time": "00:12:00", "title": "Diagnóstico rápido", "seconds": 720 },
+              { "time": "01:00:00", "title": "Trasplante de emergencia", "seconds": 3600 },
+              { "time": "02:15:00", "title": "Recuperación lenta", "seconds": 8100 }
+            ],
+            "chapters": [
+              { "id": "c1", "title": "Cuando ya no hay vuelta atrás", "duration": "06:40", "youtubeId": "G0_aDHZpXEs" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "phaseGrids": {
+    "primeros-pasos": [
+      ["herramientas", "tierra", "macetas", null]
+    ],
+    "cuidados-diarios": [
+      ["riego", "luz", "abono", null]
+    ],
+    "tipos-plantas": [
+      ["suculentas", "aromaticas", "flores", null],
+      [null, "interior", null, null]
+    ],
+    "huerto": [
+      ["tomates", "lechugas", "fresas", null]
+    ],
+    "problemas": [
+      ["plagas", "enfermedades", "rescate", null]
+    ]
+  }
+}
